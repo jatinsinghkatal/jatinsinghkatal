@@ -82,6 +82,18 @@
 </div>
 
 ###
+<h2 align="left">🔗 Coding Profiles</h2>
+
+###
+<p align="center">
+<a href="https://www.codechef.com/users/jatinsinghk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jatinsinghk" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jatinsinghkatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jatinsinghkatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jatinsinghkatal/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jatinsinghkatal/profile" height="30" width="40" /></a>
+<a href="https://www.codolio.com/profile/jatinsinghkatal" target ="blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
+</p>
+
+###
 
 <h2 align="left">⚡️ Where to find me</h2>
 
@@ -90,27 +102,23 @@
 <a href="https://twitter.com/jatinsinghkatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jatinsinghkatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
 <a href="https://instagram.com/jatinsinghkatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jatinsinghk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jatinsinghk" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jatinsinghkatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jatinsinghkatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jatinsinghkatal/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jatinsinghkatal/profile" height="30" width="40" /></a>
 </p>
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <a href="https://open.spotify.com/user/31zo3ayt33k6nn3ufrxk3f4xcooe">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zo3ayt33k6nn3ufrxk3f4xcooe&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
+</div>-->
 
 ###
 
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatinsinghkatal/jatinsinghkatal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatinsinghkatal/jatinsinghkatal/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/jatinsinghkatal/jatinsinghkatal/output/github-snake.svg" />
-</picture
+</picture-->
 
 ###
