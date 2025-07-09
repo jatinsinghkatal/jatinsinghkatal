@@ -102,6 +102,10 @@
 <a href="https://twitter.com/jatinsinghkatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jatinsinghkatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
 <a href="https://instagram.com/jatinsinghkatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinsinghkatal" height="30" width="40" /></a>
+<a href="mailto:jatinsinghkatal@gmail.com" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40" />
+</a>
+  
 </p>
 
 ###
